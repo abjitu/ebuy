@@ -1,7 +1,8 @@
 *.class
+.gitignore
 /target/
 .classpath
-/.settings/
+*/.settings/
 .project
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
